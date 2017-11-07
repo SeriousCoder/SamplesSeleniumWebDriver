@@ -3,3 +3,6 @@
 ################################################################################
 
 /Selenium WebDriver/bin/Debug
+/Selenium WebDriver/obj/Debug
+/packages
+/.vs/Selenium WebDriver/v15
